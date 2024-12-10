@@ -140,7 +140,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    width="40%"
+    width="50%"
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MarinaSpanenberg&&show_icons=true&count_private=true&hide_border=true&title_color=129895&icon_color=2B2670&text_color=FF3399&bg_color=0d1117" alt="Marina Barbosa"&include_all_commits=true&locale=pt-br" 
