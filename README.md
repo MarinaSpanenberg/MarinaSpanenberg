@@ -1,11 +1,38 @@
-## Olá! Sou a Marina Barbosa 👋
+
+
+# 👩‍💻 Marina Barbosa
+**`Estudante/Entusiasta de tecnologia/Desenvolvedora nas horas vagas`**
 
 
 - 🔭 Hoje trabalho como Automatizadora de Testes Jr
 - 🌱 Aprofundando conhecimentos no Spring Framework e nas clouds da AWS e Microsoft Azure.
-- 📫 Contate-me no e-mail: marinabspanenberg@gmail.com
-
-### 🤖 Linguagens e Tecnologias
+  
+    <p align="left>
+       <a href="https://www.linkedin.com/in/marina-barbosa-35388718b/">
+        <img 
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-conecte--se-2B2670?style=for-the-badge&logo=linkedIn-icon-image"/>
+        </a>
+    <a href="https://github.com/MarinaSpanenberg?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/MarinaSpanenberg?color=129895&labelColor=2AB6B3&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+     <a href="https://github.com/MarinaSpanenberg?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/MarinaSpanenberg?color=138C4D&style=for-the-badge&labelColor=00D364&logo=star&label=estrelas"
+        />
+    </a>
+    </p>
+    
+---
+  
+### 🤖 Linguagens e Tecnologias   
 
 <img 
     align="left" 
@@ -104,24 +131,25 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
 />
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
-<p>
+<p >
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MarinaSpanenberg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MarinaSpanenberg&&show_icons=true&count_private=true&hide_border=true&title_color=129895&icon_color=2B2670&text_color=FF3399&bg_color=0d1117" alt="Marina Barbosa"&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaspanenberg&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinaspanenberg&layout=compact&hide_border=true&title_color=129895&text_color=FF3399&bg_color=0d1117&langs_count=9&custom_title=Tecnologias" 
   />
 
 </p>
