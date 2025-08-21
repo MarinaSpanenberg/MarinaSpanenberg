@@ -4,8 +4,8 @@
 **`Estudante/Entusiasta de tecnologia/Desenvolvedora nas horas vagas`**
 
 
-- 🔭 Hoje trabalho como Automatizadora de Testes Jr
-- 🌱 Aprofundando conhecimentos no Spring Framework e nas clouds da AWS e Microsoft Azure.
+- 🔭 Hoje trabalho como Estágiaria de Engenharia de Dados
+- 🌱 Aprofundando conhecimentos no Spring Framework, programação de baixo nível e nas clouds da AWS e Microsoft Azure.
   
     <p align="left>
        <a href="https://www.linkedin.com/in/marina-barbosa-35388718b/">
@@ -129,6 +129,30 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" 
+/>
+<img 
+    align="left" 
+    alt="CPP" 
+    title="CPP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/linux-original.svg?size=128&color=000000" 
 />
 <br/>
 
