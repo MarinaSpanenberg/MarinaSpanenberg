@@ -6,14 +6,8 @@
 
 - 🔭 Hoje trabalho como Estágiaria de Engenharia de Dados
 - 🌱 Aprofundando conhecimentos no Spring Framework, programação de baixo nível e nas clouds da AWS e Microsoft Azure.
-  
-    <p align="left>
-       <a href="https://www.linkedin.com/in/marina-barbosa-35388718b/">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-conecte--se-2B2670?style=for-the-badge&logo=linkedIn-icon-image"/>
-        </a>
+
+ [![Linkedin](https://custom-icon-badges.demolab.com/badge/-conecte--se-2B2670?style=for-the-badge&logo=linkedIn-icon-image)](https://www.linkedin.com/in/marina-barbosa-35388718b/)
     <a href="https://github.com/MarinaSpanenberg?tab=followers">
         <img 
             alt="Seguidores" 
@@ -28,8 +22,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/MarinaSpanenberg?color=138C4D&style=for-the-badge&labelColor=00D364&logo=star&label=estrelas"
         />
     </a>
-    </p>
-    
+
 ---
   
 ### 🤖 Linguagens e Tecnologias   
